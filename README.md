@@ -1,4 +1,4 @@
-# Experiment 1 —  Sequential Matrix Multiplication
+# Experiment 1 —  Sequential and OpenMP Parallel Matrix Multiplication
 
 ## Overview
 
