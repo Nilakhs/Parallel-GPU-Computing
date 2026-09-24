@@ -1,4 +1,4 @@
-# Experiment 1 — Matrix Multiplication
+# Experiment 1 —  Sequential Matrix Multiplication
 
 ## Overview
 
