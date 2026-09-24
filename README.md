@@ -23,3 +23,18 @@ The program was written in C using three nested loops to perform:
 
 ```text
 C = A × B
+
+# Part B — OpenMP Matrix Multiplication
+
+## Objective
+
+To parallelize matrix multiplication using OpenMP and multiple CPU threads, and compare its execution time with the sequential implementation.
+
+## Implementation
+
+The program was written in C using OpenMP to parallelize the outer loop of the matrix multiplication.
+
+The matrix multiplication performs:
+
+```text
+C = A × B
