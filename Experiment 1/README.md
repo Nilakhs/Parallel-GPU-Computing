@@ -306,11 +306,9 @@ The sequential execution time establishes the baseline (1.00×) for all speedup 
   - ![MPI Result](MPI_matrix_Mul/mpi_result.png)
 
 ### CUDA
-- `nvidia-smi`: *To be recorded*
-- `nvcc --version`: *To be recorded*
-- Compilation: *To be recorded*
-- CUDA execution: *To be recorded*
-- Verification: *To be recorded*
+- Compilation/Execution/Verification:
+  - ![CUDA Execution](CUDA_Matrix_mul/CUDA.png)
+  - ![CUDA Result](CUDA_Matrix_mul/CUDA_Result.png)
 
 ---
 
