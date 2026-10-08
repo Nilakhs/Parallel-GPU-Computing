@@ -290,28 +290,3 @@ nvcc -O2 <cuda_source>.cu -o <output>
 
 ---
 
-## 16. Viva Preparation Topics
-
-This experiment covers the following core topics:
-- CUDA
-- CPU vs GPU
-- Thread
-- Block
-- Grid
-- Kernel
-- Host and Device
-- Global thread index
-- Memory transfer
-- Vector addition
-- Vector multiplication
-- Execution time
-- Speedup
-- Efficiency
-- Parallelism
-
----
-
-## 17. References
-
-- Course-provided Parallel Computing lab material.
-- NVIDIA CUDA documentation, when relevant during implementation.
