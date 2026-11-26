@@ -284,7 +284,7 @@ tbl6.columns[2].width = Inches(0.95)
 tbl6.columns[3].width = Inches(0.95)
 tbl6.columns[4].width = Inches(0.95)
 
-t_headers = ["Kernel Variant", "Avg Time", "Throughput", "Efficiency", "Ratio"]
+t_headers = ["Kernel Variant", "Avg Time", "Throughput", "Active Lanes", "Speedup (S)"]
 for c_idx, h in enumerate(t_headers):
     cell = tbl6.cell(0, c_idx)
     cell.fill.solid()
